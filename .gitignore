@@ -2,6 +2,7 @@
 /node_modules
 /.idea
 *.tsbuildinfo
+.env
 
 # VS Code workspace config
 workspace.code-workspace
